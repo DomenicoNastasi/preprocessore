@@ -4,6 +4,6 @@
 int main(void){
     int a = 2;
     int b = cubo(a);
-    printf("%d*%d= %d",a,a,b)
+    printf("%d*%d*%d= %d",a,a,a,b);
     return 0;
 }
